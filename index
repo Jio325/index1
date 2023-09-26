@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div  style="
+    background-color: rgb(223, 221, 221);
+    text-align: center;
+    padding: 40px;">
+        <img src="https://i.imgs.ovh/2023/09/26/Pci12.jpeg" alt="jio" width="80px" height="80px">
+    </div>
+    <div style="
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 15px;
+      line-height: 1.7;
+      color:black;
+    ">
+        <p>你好，欢迎来到我的主页。</p> 
+        <p>我的网站</p>
+        <p>我的网站</p>
+        <p>我的网站</p>
+        <p>我的网站</p>
+    </div>
+    <div style="
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 40px;
+    font-size: 12px;
+    ;">
+   <p>我的网站</p>
+    <a href="https://jio325.github.io/index1/">友情链接</a>
+</div>
+</body>
+</html>
