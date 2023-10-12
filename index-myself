@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jio</title>
+</head>
+<body>
+    <div  style="
+    background-color: rgb(223, 221, 221);
+    text-align: center;
+    padding: 40px;">
+        <img src="https://i.imgs.ovh/2023/09/26/Pci12.jpeg" alt="jio" width="80px" height="80px">
+    </div>
+    <div style="
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 15px;
+      line-height: 1.7;
+      color:black;
+    ">
+        <p>你好，可以叫我jio。如你所见，我是个搞原创oc的。</p> 
+        <p>爱好是网上冲浪，打日乙，写oc故事。如果你想了解，可以通过下面的链接进行进一步阅读，
+            如果你有好的故事分享也可以和我一起讨论。
+        </p>
+        <a href="    ">oc故事与世界观</a>
+        <p>我的网站</p>
+        <p>我的网站</p>
+        <p>我的网站</p>
+    </div>
+    <div style="
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 40px;
+    font-size: 12px;
+    ;">
+   <p>QQ：2431683159</p>
+    <a href="https://jio325.github.io/index1/">主页链接</a>
+</div>
+</body>
+</html>
